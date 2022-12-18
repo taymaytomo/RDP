@@ -22,4 +22,5 @@ INSTALL of RDP Wrapper and Autoupdater
 
   _"%ProgramFiles%\RDP Wrapper\autoupdate.bat"_
 
-<img src="https://raw.githubusercontent.com/taymaytomo/RDP/main/Win7ST.png">
+<img width="500px" src="https://raw.githubusercontent.com/taymaytomo/RDP/main/Win7ST.png"> <img width="500px" src="https://raw.githubusercontent.com/taymaytomo/RDP/main/Win10%20(1).png">
+
